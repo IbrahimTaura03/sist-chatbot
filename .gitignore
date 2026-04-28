@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+sist-adapter/
+frontend/node_modules/
+frontend/.next/
+*.jsonl
+.env.local
