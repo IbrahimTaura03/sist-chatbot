@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SIST Tangier Chatbot
 AI-powered university assistant using RAG + Mistral 7B + QLoRA
 
