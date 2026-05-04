@@ -1,0 +1,12 @@
+fastapi==0.112.0
+uvicorn==0.30.6
+langchain==0.2.16
+langchain-community==0.2.16
+sentence-transformers==3.0.1
+pinecone-client==3.2.2
+sqlalchemy==2.0.31
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+httpx==0.27.0
+python-dotenv==1.0.1
+pypdf==4.3.1
