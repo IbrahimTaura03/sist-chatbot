@@ -1,10 +1,7 @@
+.env
 venv/
 __pycache__/
 *.pyc
-.env
-chroma_db/
-sist-adapter/
-frontend/node_modules/
-frontend/.next/
-*.jsonl
-.env.local
+.next/
+node_modules/
+*.log
